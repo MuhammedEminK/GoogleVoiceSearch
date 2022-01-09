@@ -1,2 +1,2 @@
 # GoogleVoiceSearch
-pip install - r requirements.txt
+pip install - r requests.txt
