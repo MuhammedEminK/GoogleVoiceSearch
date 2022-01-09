@@ -3,7 +3,6 @@ import speech_recognition
 from selenium import webdriver
 from googlesearch import search
 import selenium
-import keyboard
 import time
 
 
